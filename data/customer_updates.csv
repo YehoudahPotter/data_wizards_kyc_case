@@ -1,0 +1,6 @@
+customer_id,country_code,occupation,change_date
+C00001,AE,Executive,2025-01-15
+C00002,BE,Politician,2025-02-01
+C00003,RU,Unemployed,2025-03-10
+C00004,FR,Politician,2025-04-05
+C00005,BE,Unemployed,2025-05-20

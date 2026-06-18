@@ -1,0 +1,13 @@
+# Pipeline outputs produced by the candidate's SAS run
+pipeline/output/
+
+# Power BI working files
+*.pbix
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# NB: the fake source data in data/ is intentionally committed
+# (fixed, identical for every candidate).
